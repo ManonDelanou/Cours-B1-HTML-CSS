@@ -4,6 +4,7 @@ p{
     border-radius: 15px;
     background: content-box radial-gradient(rgb(218, 255, 249), rgb(227, 247, 255));
     padding: 2x;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 img { 
